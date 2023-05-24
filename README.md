@@ -10,7 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+   <img align="center" alt="Python" height="30" width="40" src="https://banner2.cleanpng.com/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg">
 </div>
  
  <br>
