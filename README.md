@@ -10,7 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Python" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-python%2F&psig=AOvVaw0qrdFvJvE83T7L7iADsc-6&ust=1685025127784000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjVn_SVjv8CFQAAAAAdAAAAABAE">
+   <img align="center" alt="Python" height="30" width="40" src="https://img1.gratispng.com/20180320/fsw/kisspng-angle-text-symbol-brand-other-python-5ab0c09b0e3083.2363551015215330830581.jpg">
 </div>
  
  <br>
