@@ -10,7 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Python" height="30" width="40" src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png">
+   <img align="center" alt="Python" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-python%2F&psig=AOvVaw0qrdFvJvE83T7L7iADsc-6&ust=1685025127784000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjVn_SVjv8CFQAAAAAdAAAAABAE">
 </div>
  
  <br>
