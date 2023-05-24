@@ -10,7 +10,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Python" height="30" width="40" src=" https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png">
+   <img align="center" alt="Python" height="30" width="40" src="https://e7.pngegg.com/pngimages/621/411/png-clipart-computer-icons-python-anaconda-anaconda-angle-other-thumbnail.png">
 </div>
  
  <br>
