@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
  <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
- <img align="center" alt="Python" height="45" width="55" src="h[ttps://images.hdqwalls.com/wallpapers/python-logo-4k-i6.jpg](https://www.nicepng.com/png/detail/70-701932_python-logo-clipart-python-head-python-logo.png)">
+ <img align="center" alt="Python" height="45" width="55" src="https://www.nicepng.com/png/detail/70-701932_python-logo-clipart-python-head-python-logo.png">
 </div>
 
 
