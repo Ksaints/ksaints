@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, bem vindo.
+
+## Aqui você pode acompanhar as linguagens que eu estou trabalhando e projetos que estou participando.
+
+##Vamos fazer network?  <img align="center" alt="Java" height="30" width="40" src=" <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">">
 
 
  <div style="display: inline_block"><br>
@@ -9,9 +13,7 @@
  <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 </div>
 
- <div style="display: inline_block"><br>
-   <img align="center" alt="Python" height="30" width="40" src="https://www.clipartmax.com/png/middle/176-1767516_python-logo-clipart-svg-python-icon-png.png">
-</div>
+
  
  <br>
  <br>
