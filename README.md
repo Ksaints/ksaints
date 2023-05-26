@@ -5,7 +5,7 @@
 ## Vamos fazer network e tomar um café? <img align="end" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png"> 
 
 
-## Aqui você pode acompanhar algumas linguagens que eu estou trabalhando :)
+## Aqui você pode acompanhar algumas linguagens que eu estou aprendendo e trabalhando :)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
  
  <br>
  <br>
- 
+ ## Contatos 
   <div> 
 <!--   <a href="https://www.youtube.com/devemdobro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <a href="https://www.instagram.com/klebergrc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
