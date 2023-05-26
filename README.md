@@ -1,3 +1,11 @@
+<script src="https://cdn.lordicon.com/bhenfmcm.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/amxnacxd.json"
+    trigger="hover"
+    colors="primary:#4be1ec,secondary:#cb5eee"
+    style="width:250px;height:250px">
+</lord-icon>
+
 ## Olá, bem vindo.
 
 
@@ -32,6 +40,5 @@
 
 <div>
   
-  <script type="module" src="https://unpkg.com/@splinetool/viewer/build/spline-viewer.js"></script>
-  <spline-viewer url="https://prod.spline.design/PBQQBw8bfXDhBo7w/scene.splinecode" events-target="local"></spline-viewer>
+
   </div>
