@@ -2,7 +2,8 @@
 
 ## Aqui você pode acompanhar as linguagens que eu estou trabalhando e projetos que estou participando.
 
-##Vamos fazer network?  <img align="center" alt="Java" height="30" width="40" src=" <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">">
+##Vamos fazer network? 
+<img align="center" alt="ReactJS" height="30" width="40" src="https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png">
 
 
  <div style="display: inline_block"><br>
