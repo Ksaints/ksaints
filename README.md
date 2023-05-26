@@ -1,10 +1,11 @@
 ## Olá, bem vindo.
 
-## Aqui você pode acompanhar as linguagens que eu estou trabalhando e projetos que estou participando.
-
-##Vamos fazer network e tomar um café? <img align="end" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png">
 
 
+##Vamos fazer network e tomar um café? <img align="end" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png"> 
+
+
+## Aqui você pode acompanhar algumas linguagens que eu estou trabalhando :)
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +13,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
  <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
- <img align="center" alt="Python" height="45" width="55" src="https://www.nicepng.com/png/detail/70-701932_python-logo-clipart-python-head-python-logo.png">
+ 
 </div>
 
 
