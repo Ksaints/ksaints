@@ -2,15 +2,13 @@
 
 ## Olá, bem vindo.
 
-
-
 ## Vamos fazer network 😄
 
  <div>
    
   <a href="https://github.com/Ksaints">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ksaints&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksaints&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ksaints&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksaints&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
 
@@ -21,6 +19,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
  <img align="center" alt="ReactJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+  <img align="center" alt="Python" height="40" width="40" src="https://www.svgrepo.com/show/331553/python-package-index.svg">
  
 </div>
 
