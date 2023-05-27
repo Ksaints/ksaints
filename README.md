@@ -4,7 +4,7 @@
 
 
 
-## Vamos fazer network e tomar um café? <img align="end" alt="Java" height="20" width="30" src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png"> 
+## Vamos fazer network 😄
 
 
   <div style="display: inline_block"><br>
