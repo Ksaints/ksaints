@@ -1,8 +1,8 @@
 
 
-## Olá, bem vindo.
+## Welcome.
 
-## Vamos fazer network 😄
+## 😄
 
  <div>
    
